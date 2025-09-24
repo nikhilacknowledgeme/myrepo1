@@ -19,8 +19,7 @@ values(1,'Jay','Shah','M','jay@gmail.com','932-832-2334','123 Main st,Cityvilla'
 (8,'Chetan','Kumar','M','chetan@gmail.com','883-344-4829','178 Streat ,Pinkvilla'),
 (9,'Amitabh','Bachan','M','amitabh@gmail.com','837-888-2323','092 Honour of  house,The villa'),
 (10,'Viajy','Setupati','M','vijay@gmail.com','992-934-7483','324 Main Land, Bussiness House'),
-(11,'Rohit','shetty','M','rohit@gmail.com','838-832-9923','654 Maratha Raj,Emperor City'),
-(12,'Amit','Kapoor','M','amit@gmail.com','832-323-9323','189 Ameerpeet Road, Dusty Villa');
+
 
 DELIMITER //
 CREATE PROCEDURE GetStdInfo(In id INT)
