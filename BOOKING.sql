@@ -1,3 +1,5 @@
+#SELECT * FROM hotel1.booking;
+
 SELECT * FROM hotel.booking;
 
 use hotel;
