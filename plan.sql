@@ -1,6 +1,6 @@
 
 
-create database plandb2;
+create database plandb;
 use plandb;
 create table plans(plan_id varchar(10),plan_name varchar(20),
 validity varchar(20),description varchar(30),
