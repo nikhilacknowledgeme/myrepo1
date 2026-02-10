@@ -2,6 +2,7 @@
 
 
 create database plandb12;
+create database plan;
 
 create database plandb;
 
